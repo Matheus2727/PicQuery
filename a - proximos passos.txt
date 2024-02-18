@@ -1,0 +1,12 @@
+- implementar as funções checar_altera_fotos e checar_altera_base, acrescentando-as às rotinas.
+-> criar dir para deleções (se basear em checar_altera_fotos)
+--> dir lixeira para fotos fisicas e dir Tag deletar para atalhos
+-> criar rotina de startup (usar checar_altera_base)
+- novo dir por Tag para retirar dita Tag
+- implementar funcionalidade ao botão de criar Tag
+-> uma foto só pode ter uma cópia de cada Tag
+- criação automatica de paths
+- implementar Tags no nome
+
+
+-bug recriando o xml depois da rotina inicial de checagem
